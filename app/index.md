@@ -22,6 +22,10 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Mr. Brightside](song/jan/mr_brightside.md)
 
+### [PitStop Boys](writer/PitStopBoys) | PitStop.Boys@onlyrics.magazine
+
+[SuperMax](song/feb/SuperMax.md)
 ### [Dio](writer/dio) | dio@onlyrics.magazine
 
 [Holy Diver](song/feb/holy_diver.md)
+
